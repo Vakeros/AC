@@ -36,9 +36,6 @@ CREATE TABLE `banlist` (
 -- Contenu de la table `banlist`
 --
 
-INSERT INTO `banlist` (`identifier`, `reason`, `ip`) VALUES
-('steam:11000010b4n97c2', 'using blacklisted vehicle model = annihilator', '85.201.206.234');
-
 --
 -- Index pour les tables exportées
 --
